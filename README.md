@@ -16,4 +16,8 @@ This task involved gathering information about the target system and identifying
 ## Learning Outcome
 This task provided practical experience in network reconnaissance and vulnerability assessment and helped in understanding how security professionals identify potential weaknesses in a system.
 
-📄 [View Internship Report](./Task%201.pdf)
+[View Internship Report](./Task%201.pdf)
+
+## Disclaimer
+All security testing documented in this task was performed within an authorized and controlled TryHackMe laboratory environment for educational and cybersecurity training purposes.
+No unauthorized systems or networks were targeted.
